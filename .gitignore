@@ -1,0 +1,9 @@
+# Pastas do IntelliJ
+.idea/
+
+# Arquivos de build e classes compiladas
+out/
+*.class
+
+# Arquivos de configuração do projeto
+*.iml
